@@ -31,6 +31,6 @@ Quality: ensure document is conform to checker grammar state or generated docume
 ---------------------------
 Preview
 
-[https://visual-html.github.io/HTML/](preview codes using github pages function)
+[preview codes using github pages function](https://visual-html.github.io/HTML/)
 
-[https://visual-html.github.io/HTML/20170311.html](price calculator)
+[price calculator](https://visual-html.github.io/HTML/20170311.html)
