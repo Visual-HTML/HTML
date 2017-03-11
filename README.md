@@ -28,3 +28,9 @@ Quality: ensure document is conform to checker grammar state or generated docume
 
 -- this "Codes Source" is defined as a distributed support (endless?) for end-user :  the fact is that editor and designer must expose easy to use authoring objects to end-user, even until the transformation from one object to another (this is possible on well-structured codes (ref. Strong Typing) or simple HTML code structure : a h1 with 3 p can become a h1 with ul/+3 li ...?
 
+---------------------------
+Preview
+
+[https://visual-html.github.io/HTML/](preview codes using github pages function)
+
+[https://visual-html.github.io/HTML/20170311.html](price calculator)
